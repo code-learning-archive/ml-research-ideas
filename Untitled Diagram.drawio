@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
+  <diagram name="Page-1" id="_lndoTNZP9Iht9LA-Exg">
+    <mxGraphModel dx="1426" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G1Af9I-yNLhF9bN2AHDs-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ml Research Areas" vertex="1">
+          <mxGeometry height="70" width="120" x="90" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="G1Af9I-yNLhF9bN2AHDs-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="space&amp;nbsp;" vertex="1">
+          <mxGeometry height="70" width="130" x="270" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="G1Af9I-yNLhF9bN2AHDs-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="autonomous driving" vertex="1">
+          <mxGeometry height="70" width="130" x="270" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="G1Af9I-yNLhF9bN2AHDs-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Robots" vertex="1">
+          <mxGeometry height="70" width="130" x="270" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="G1Af9I-yNLhF9bN2AHDs-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="moving" vertex="1">
+          <mxGeometry height="50" width="100" x="410" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="G1Af9I-yNLhF9bN2AHDs-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="planning" vertex="1">
+          <mxGeometry height="50" width="110" x="270" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="G1Af9I-yNLhF9bN2AHDs-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="thinking&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="90" x="140" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="G1Af9I-yNLhF9bN2AHDs-9" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="390" width="130" x="260" y="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
