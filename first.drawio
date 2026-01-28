@@ -37,9 +37,17 @@
         <mxCell id="G1Af9I-yNLhF9bN2AHDs-9" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" value="" vertex="1">
           <mxGeometry height="390" width="130" x="260" y="500" as="geometry" />
         </mxCell>
+        <mxCell id="Gxez-yKSukZt79V5cL5u-7" edge="1" parent="1" source="Gxez-yKSukZt79V5cL5u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gxez-yKSukZt79V5cL5u-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Gxez-yKSukZt79V5cL5u-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="exoplanet detection" vertex="1">
           <mxGeometry height="70" width="130" x="410" y="100" as="geometry" />
         </mxCell>
+        <UserObject label="Machine Learning in Exoplanet Detection&amp;nbsp;" link="https://download.ssrn.com/2025/4/3/5203616.pdf?response-content-disposition=inline&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCtc11sB4Q%2BZ0BlBJGHvOYhUnKtThGc5x5JWw2e4Ir0iwIhAMaRXGThen2GTEEKtJTDACGZZD9%2B3OxmRjsUKsmPiglBKr4FCGsQBBoMMzA4NDc1MzAxMjU3IgzO1BMYpGTaL%2BLkSQwqmwWMH901CgbWwSzWftUZUFQKdPT4HK3Np8GQ7XctMmE2sg1p240dKJBJ%2BDbLYCoxF88HIP4z8fxCQkJEqTTmO8aeRvDU9If8z7pCAQjZAxBxiBLh%2BuiO8rBFOtmqRvpTGQfVlPvNzUUebs8O9uv0giR06XfJpylQ%2FyItQGKlirolaNUygQhn236MPRL4ACDzds7nLr7beksH419Y4v94b1l55Zn8Cp5oTx%2BN17QXqFWc2Qnyh8YPlDRg1UDar2z8CBoHcCaITZovfahNKcTkqB8F8LkYZpcWSMhbnYnV7uW4xMBunLoBgRi4%2BVNLFf79d5DhRjcdx9rQRh%2F8IP1lQ9rwuu1P6ztL%2B%2B0n5MI4irx3eoHdqlfrXjIF9NGVcYxKRNk5eiUDMyktw%2FCcNH5vOYzWp0nxJ0xMPHO80jVjj%2FxAAikoDwYJo%2FvzD1t4LDjL%2BKjy%2BBR4QVUMldx7KjUqC%2FwQmsdFOp0083B6wisbWZlfHqKOtiijH%2B%2BcMo55KU20GJmHTGOIhJRd9JUQL3xI8%2FXDHFQ3iY0aOal4wby8NvNLlv1W5xCA9hWNA7RV%2BBQd9OVergfRZLFrXv%2BWipwEsC%2BZ2jYtQKY8b3TU0nRPvnPjCK96ztKcd9SJ1p9AwqAllNG%2FE2ggUaWqiAI50kvPcqsWh%2BWxvzr%2BLri6wCXaNu83DOXYq37MoN9E9oCmN9cNs%2FVHBD84DSaSrWjTy2efAdZ%2BsbltIFPFZ1pqlRDPB5R9L%2BudvbAMCB6AmHMXd3%2Fe5v1VT8ntXtf5yZ1kPqcq1CPGftbjnzdDqsqBPTK3w4aJEFtRAtM5Ew4TUwQb3N%2FJQsu7vcWyzmjw32B3s3aSGxsfG4uhOjw1DNIKjaABnQM6hqhux8U7eohXwEQEML7E58sGOrAB7WsPcjQFuH%2F4Pyx4aREfNGmnCFz5TJjv1Vh7FKe72kWq%2F7oYUdWkokCAXgoXE21MDbbi9pH%2BzmKC%2FtEiZSbnfddevnmz%2BZwfRlH7vfHGbj0nwttFEkymuTia6Z2xRq08TfNh3kM8%2BAThAxJ8YAnLRr%2F1A4xTuKwXFHel09TAXd%2F%2FqSfm7u6NAOIhfyDrhTKDj1oDtYIarHtk5JnPShPBcFuefDSyn5yl0Aqt7mbs5uY%3D&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20260128T113414Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAUPUUPRWEWL6AGT3O%2F20260128%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=cbcf6f9935a78226afed7724d61143cc704a1228776d7363067f5b9dd2f3e7d2&amp;abstractId=5203616" id="Gxez-yKSukZt79V5cL5u-6">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="50" width="300" x="630" y="70" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
