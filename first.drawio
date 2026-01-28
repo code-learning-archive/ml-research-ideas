@@ -4,8 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Gxez-yKSukZt79V5cL5u-2" edge="1" parent="1" source="G1Af9I-yNLhF9bN2AHDs-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="G1Af9I-yNLhF9bN2AHDs-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G1Af9I-yNLhF9bN2AHDs-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ml Research Areas" vertex="1">
           <mxGeometry height="70" width="120" x="90" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxez-yKSukZt79V5cL5u-3" edge="1" parent="1" source="G1Af9I-yNLhF9bN2AHDs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="G1Af9I-yNLhF9bN2AHDs-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxez-yKSukZt79V5cL5u-5" edge="1" parent="1" source="G1Af9I-yNLhF9bN2AHDs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Gxez-yKSukZt79V5cL5u-4" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G1Af9I-yNLhF9bN2AHDs-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="space&amp;nbsp;" vertex="1">
           <mxGeometry height="70" width="130" x="270" y="210" as="geometry" />
@@ -27,6 +36,9 @@
         </mxCell>
         <mxCell id="G1Af9I-yNLhF9bN2AHDs-9" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" value="" vertex="1">
           <mxGeometry height="390" width="130" x="260" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxez-yKSukZt79V5cL5u-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="exoplanet detection" vertex="1">
+          <mxGeometry height="70" width="130" x="410" y="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
